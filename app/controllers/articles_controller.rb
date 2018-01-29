@@ -53,7 +53,7 @@ class ArticlesController < ApplicationController
 
 end 
 #First I decided to create a blog which you can input and save your articles in two columns, text and title while you are logged in. 
-#Rails was the web development framework written in Ruby language. I generated new blog file, and some gems libraries (readyc code) came with it. 
+#Rails was the web development framework written in Ruby language. I generated new blog file, and some gems libraries (ready code) came with it. 
 #I used Model View Controller software architecture for the benefits of clear separation between presentation logic and business logic. 
 #Also, Resources: articles were created based on the Object Oriented Programming concept.I used Bootstrap for making a responsive interface.
 #I used CRUD HTTP operation, GET, POST, PUT, DELETE by the RESTful API resource for showing, creating, updating or deleting the articles.
